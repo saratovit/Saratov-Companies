@@ -139,26 +139,28 @@ _с крупными ИТ подразделениями в Саратове_
 
 ## 1С компании
 1. [Первый Бит](http://saratov.1cbit.ru/) - Саратовский офис. Решения на базе 1С и Bitrix. Крупнейшая региональная сеть среди 1С:Франчайзи, представлена 80 офисами в 49 городах 5 стран.
-1. [МастерСофт](http://www.msltd.ru/) - одна из лучших 1С компаний в городе
-1. [IT Тема](http://it-tema.com/) 
 1. [ИТ Эксперт](http://it-saratov.ru/)
-1. [Компания Салари](http://salari.ru/)
-1. [Плата-Сервис](http://www.plata-s.ru/)
-1. [Компьютерный аудит](http://www.compaud.com/)
-
-_Не нанимают сотрудников, но я их нашел в сети_
-1. [Инфо Сервис](http://inf-serv.ru/)
-1. [ОргЦентр](http://www.orgcentr.com/)
+1. [МастерСофт](http://www.msltd.ru/) - одна из лучших 1С компаний в городе
+1. [Группа компаний "Компьютерный аудит"](http://www.compaud.com/)
+1. [Центр автоматизации бизнеса Форвард](http://centrab.ru/)
 1. [Партнер Финанс](http://partner-finance.ru/)
+1. [Плата-Сервис](http://www.plata-s.ru/)
+1. [Техносерв-С](http://www.tserv.ru/)
+1. [Эль-софт](http://www.elsoft-group.ru/)
+1. [ОргЦентр](http://www.orgcentr.com/)
+1. [Аэлита](http://www.aelitasoft.ru/)
+1. [Инфо Сервис](http://inf-serv.ru/)
+1. [Юнит](http://www.777101.ru/)
+1. [Фалькон](http://falcon-saratov.ru/)
+1. ["Атлинк" Волга](www.Saratov-1s.ru)
+1. [Академия информационной безопасности](http://aib.com.ru/index)
+1. [IT Тема](http://it-tema.com/) 
+1. [Программы для бизнеса](http://wbp-sar.ru/)
+1. [Белая Вольта](https://whitevolta.ru/)
+1. [Компания Салари](http://salari.ru/)
 1. [Фортис](http://it-fortis.ru/about/)
 1. [Портал (группа Софит)](http://profi.sofit.ru/technology/production_and_distribution/soft/1Csolutions/)
-1. [Программы для бизнеса](http://wbp-sar.ru/)
 1. [Стек Электроникс](https://stack-online.ru/)
-1. [Фалькон](http://falcon-saratov.ru/)
-1. [Юнит](http://www.777101.ru/)
-1. [Эль-софт](http://www.elsoft-group.ru/)
-1. [Центр автоматизации бизнеса Форвард](http://centrab.ru/)
-1. [Техносерв](http://www.tserv.ru/)
 
 
 ## Интеграторы, хостеры, IP-телефония:
@@ -178,4 +180,5 @@ _Не нанимают сотрудников, но я их нашел в сет
 ## Списки саратовских ИТ компаний в сети
 * [Рейтинг SEO компаний](http://www.ratingruneta.ru/seo/saratov/)
 * [Рейтинг веб-студий](http://www.ratingruneta.ru/web/saratov/)
-* [Рейтинг разработчиков интернет-магазинов](http://www.ratingruneta.ru/e-commerce/saratov/) 
+* [Рейтинг разработчиков интернет-магазинов](http://www.ratingruneta.ru/e-commerce/saratov/)
+* [Аттестованные франчайзи 1С](https://1c.ru/rus/partners/franch-citylist.jsp?city=%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2)
