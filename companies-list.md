@@ -50,7 +50,7 @@ _(до 50 сотрудников)_
 1. [МЛС Девелопмент](http://www.nemo.travel/) – саратовское подразделение [Nemo Travel](http://www.nemo.travel/), Российского разработчика ведущей системы онлайн бронирования.
 1. [Филкос](http://filkos.com/) - кредитный брокер, в Саратове есть подразделение Web-разработки.
 1. [ЮКЕЙСОФТ](http://yksoft.ru/) - разработка сайтов и мобильных приложений.
-1. [ЮНИКС](http://webunix.ru/)  - WEB frontend и backend, IP телефония Asterisk, Разработка CRM/ERP систем.
+1. [IT Компания ЮНИКС](http://webunix.ru/)  - WEB frontend и backend, IP телефония Asterisk, Разработка CRM/ERP систем.
 1. [ЛАР](http://www.lar.ru/) - разработка WEB, сложные проекты не требующие больших команд.
 1. [OnPlat](https://onplat.net/) - разработка многофункциональной платежной системы и платежных терминалов.
 1. [King Bird Studio](http://www.kingbird.ru/) - Разработчик мобильных приложений, девятое место в [рейтинге](http://www.ratingruneta.ru/apps/). В Саратове есть небольшой офис разработки.
@@ -131,6 +131,19 @@ _с крупными ИТ подразделениями в Саратове_
 1. [Медиа саратов](http://media-saratov.ru/)
 1. [FreshLemon](https://freshlemon.ru/)
 1. [Fresh](http://site-64.ru/)
+1. [Студия Кансайт](http://kansite.ru/) - cоздание продающих сайтов в Саратове для бизнеса по выгодным ценам.
+1. [Сайт-профи](https://sait-profi.ru/) - веб-студия по созданию, поддержке и продвижению сайтов в Саратове.
+1. [DI-CORPORATION](di-corp.ru) - предлагает своим клиентам широкий спектр услуг в сфере интернет-маркетинга, веб-дизайна и продвижения в социальных сетях.
+1. [Вебстудия SarStudio.ru](http://sarstudio.ru/)
+1. [Веб-студия ClickProject](http://clickproject.ru/)
+1. [Джей Пи](http://reklama.jp/)
+1. [Веб-студия ABLE Vision](http://able-vision.ru/)
+1. [Юнима](http://web.unima.ru/)
+
+_Саратовская область_
+1. [Интернет агентство «Сервис»](http://studio-servis.ru/) (Балашов) - Разработка и продвижение web сайтов.
+1. [Mitroliti](https://mitroliti.ru/) (Балаково)
+1. [Веб-студия SOTORI](http://sotori.ru/) (Балаково)
 
 
 ## Интернет Магазины
@@ -161,6 +174,8 @@ _с крупными ИТ подразделениями в Саратове_
 1. [Фортис](http://it-fortis.ru/about/)
 1. [Портал (группа Софит)](http://profi.sofit.ru/technology/production_and_distribution/soft/1Csolutions/)
 1. [Стек Электроникс](https://stack-online.ru/)
+1. [Базис](http://basis-engels.ru/)
+1. [ABC Эксперт](http://www.abc-expert.ru/)
 
 
 ## Интеграторы, хостеры, IP-телефония:
@@ -181,4 +196,7 @@ _с крупными ИТ подразделениями в Саратове_
 * [Рейтинг SEO компаний](http://www.ratingruneta.ru/seo/saratov/)
 * [Рейтинг веб-студий](http://www.ratingruneta.ru/web/saratov/)
 * [Рейтинг разработчиков интернет-магазинов](http://www.ratingruneta.ru/e-commerce/saratov/)
+* [Каталог Веб-студий](http://www.cmsmagazine.ru/creators/saratov/)
 * [Аттестованные франчайзи 1С](https://1c.ru/rus/partners/franch-citylist.jsp?city=%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2)
+* [ИТ компании в Саратове](http://www.localit.ru/companies/saratov/1)
+* https://www.yell.ru/saratov/top/razrabotka-po/
