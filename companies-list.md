@@ -34,6 +34,7 @@ _(50 - 200 сотрудников)_
 
 ## Небольшие компании
 _(до 50 сотрудников)_
+1. [BigDatix](https://www.bigdatix.com/) - небольшая и молодая компания, сфокусированная на разработке программных систем в области Big Data.
 1. [Профсофт](http://www.profsoft.pro/) - Саратовская компания-разработчик, около 20 человек. Разработка системы для управления конференциями и создание ПО на заказ.
 1. [Сателлит Лабс](http://www.satellite-soft.ru/) - разработка софта для отечественных заказчиков в области управления транспортом, геолокации, видеонаблюдения. Размер 20-30 человек.
 1. [ИнфоБиС](http://www.agrosignal.com/) - системы мониторинга для транспорта и сельского хозяйства.
@@ -193,10 +194,12 @@ _Саратовская область_
 
 
 ## Списки саратовских ИТ компаний в сети
+* [SaratovIT](https://www.saratovit.ru/company/)
 * [Рейтинг SEO компаний](http://www.ratingruneta.ru/seo/saratov/)
 * [Рейтинг веб-студий](http://www.ratingruneta.ru/web/saratov/)
 * [Рейтинг разработчиков интернет-магазинов](http://www.ratingruneta.ru/e-commerce/saratov/)
 * [Каталог Веб-студий](http://www.cmsmagazine.ru/creators/saratov/)
 * [Аттестованные франчайзи 1С](https://1c.ru/rus/partners/franch-citylist.jsp?city=%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2)
 * [ИТ компании в Саратове](http://www.localit.ru/companies/saratov/1)
-* https://www.yell.ru/saratov/top/razrabotka-po/
+* [Разработка программного обеспечения в Саратове](https://www.yell.ru/saratov/top/razrabotka-po/)
+* [indeed](https://ru.indeed.com/IT-jobs-in-%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2)
