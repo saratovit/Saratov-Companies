@@ -305,7 +305,7 @@ _Саратовская область_
 1. [Программы для бизнеса](http://wbp-sar.ru/)
 1. [Сервистренд](http://www.servicetrend.ru/) - в Саратове есть филиал.
 1. [Стек Электроникс](https://stack-online.ru/)
-1. [Техносерв-С](http://www.tserv.ru/)
+1. [Техносерв-С](http://www.tserv.ru/) - 1C и системная интеграция.
 1. [Фалькон](http://falcon-saratov.ru/)
 1. [Фортис](http://it-fortis.ru/about/)
 1. [Центр автоматизации бизнеса Форвард](http://centrab.ru/)
